@@ -1,0 +1,65 @@
+<! DOCTYPE html>
+<html>
+
+
+<head>
+<title>BON GIORNO CARTEL</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<div class="sidebar">
+<p> Members:</p>
+<p>Jhim
+<p>Sy
+<p>Max
+<p>Omar
+<p>Bryan
+<p>Tiwe
+<p>Ash
+<p>Ruz
+<p>Pudong
+<p>otot
+<p>Villagery
+<p> MARAMI PANG IBA....</p>
+<p> <i>Mga gago pero mababait naman sila pag tulog.</i></p>
+<p> Contact No. : 09567123451 </p>
+
+</div>
+
+<div class="main">
+
+<h2>Medellin Cartel </h2>
+<p>Welcome to BON G CARTEL!</p>
+
+<img width="700" height="400" src="images/cartel.jpg">
+
+<h3> <i>(BON G EDITION)</i> </h3>
+
+<img width="1500" height="400" src="images/mansion_1.jpg">
+
+<p> <b>Location:</b> </p> 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123911.51808977636!2d121.09812876596772!3d13.94461204780383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33bd13576170055f%3A0xe6da25b39082662a!2sLipa%2C%20Batangas!5e0!3m2!1sen!2sph!4v1660181320975!5m2!1sen!2sph" width="1500"height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+<p> Theme Song:</p>
+
+<iframe width="1500"height="315" src="https://www.youtube.com/embed/WFM7jmCe4QY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
+<center>
+<p> Founder:</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Pablo_Escobar">PABLO ESCOBAR</a></p>
+
+<img width="500" height="300" src="images/PABLO.jpg">
+
+<p>CLICK HERE TO SEE OUR <a href="picture.html">PET</a>.</p>
+
+</center>
+</body>
+</html>
+
